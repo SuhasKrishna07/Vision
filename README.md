@@ -11,4 +11,8 @@ The Sustainable Development Goals (SDGs) are a series of 17 interconnected globa
 The main vision is to conserve the natural resources and make our ecosystem better.
 
 The five principles of sustainable development are as follows:
-1.Conservation of the ecosystem or the environment. 2.Conservation of biodiversity of the planet. 3.Sustainable development of the society. 4.Conservation of human resources. 5.Population control and management
+1.Conservation of the ecosystem or the environment. 
+2.Conservation of biodiversity of the planet. 
+3.Sustainable development of the society. 
+4.Conservation of human resources. 
+5.Population control and management
