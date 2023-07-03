@@ -8,7 +8,7 @@ The goal of sustainable development is to end poverty,achieve food security and 
 
 The Sustainable Development Goals (SDGs) are a series of 17 interconnected global goals established by the United Nations General Assembly (UN-GA) in 2015 and targeted to be realised by 2030. 
 
-The main vision is to conserve the natural resources and make our ecosystem better.
+Our main vision is to conserve the natural resources and make our ecosystem better.
 
 The five principles of sustainable development are as follows:
 1.Conservation of the ecosystem or the environment. 
